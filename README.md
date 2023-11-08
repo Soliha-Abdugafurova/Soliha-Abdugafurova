@@ -21,10 +21,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadziyo-web&show_icons=true&locale=en&layout=compact" alt="muhammadziyo-web" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadziyo-web&" alt="muhammadziyo-web" /></p>
+
 
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/muhammadziyo-web/count.svg" />
 </p>
-
